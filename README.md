@@ -1,238 +1,104 @@
-<!-- ===================== HEADER ===================== -->
-
-<h1 align="center">
-  Hi 👋, I'm Ishwari
-</h1>
-
-<h3 align="center">
-  Information Technology Student | AI & Full-Stack Developer
-</h3>
+<h1 align="center">Hi 👋, I'm Ishwari Hive</h1>
+<h3 align="center">B.E. Information Technology Student | AI & Full-Stack Developer | Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;AI+%26+Full-Stack+Developer;Python+%7C+JavaScript+%7C+SQL;Building+Practical+Software+Solutions;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://komarev.com/ghpvc/?username=ishwarihive26&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+  <a href="https://linkedin.com/in/ishwari-hive9420591463/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"/></a>
+  <a href="mailto:ishwarihive67@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=flat&logo=gmail"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishwarihive26&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+---
+
+### 👩‍💻 About Me
+
+I'm a B.E. Information Technology student at Prof Ram Meghe College of Engineering and Management, Badnera (SGPA 8.1), with a strong foundation in Python, JavaScript, SQL, and database technologies. I build AI-powered applications and responsive web solutions through academic and personal projects, with a focus on continuous learning and practical problem-solving.
+
+- 🔭 Building AI-powered applications and full-stack web solutions
+- 🌱 Sharpening my skills in Data Structures & Algorithms and Competitive Programming
+- 💡 Interested in Artificial Intelligence, Full-Stack Development, and Open-Source Software
+- 📍 Based in Amravati, Maharashtra
+- 📫 Open to Software Development / Full Stack / AI Engineer roles
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+</p>
 
-<!-- ===================== ABOUT ME ===================== -->
+**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-## 👩‍💻 About Me
-
-I am a **B.E. Information Technology student** with a strong foundation in 
-**Python, JavaScript, SQL, and database technologies**.
-
-I am interested in:
-
-- 🤖 Artificial Intelligence
-- 🌐 Full-Stack Development
-- 💻 Competitive Programming
-- 🧩 Problem Solving
-- 🔓 Open-Source Software
-- 🚀 Building practical software solutions
-
-Currently, I am focused on improving my development skills, solving coding
-problems, and building real-world projects.
-
-
-<!-- ===================== CONNECT ===================== -->
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/ishwarihive26">
+**Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ishwari-hive9420591463/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ishwarihive67@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
+---
 
-<!-- ===================== TECH STACK ===================== -->
+### 🚀 Featured Projects
 
-## 🛠️ Tech Stack
+**🪞 CareerSmart Mirror — AI Powered Personal Assistant**
+`Python` `Flutter` `Raspberry Pi` `OpenCV`
+- AI-powered smart mirror with voice interaction, facial recognition, weather API, and calendar integration
+- IoT-based automation for personalized user interaction
 
-### 💻 Languages
+**🎬 Streamify — React Movie App**
+`React` `Java Spring Boot` `Redux` `REST API`
+- Full-stack movie streaming application with dynamic content via movie/REST APIs
+- Redux for state management, with optimized API calls for performance
 
-<p align="left">
+---
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=mysql" />
+### 🏆 Achievements
 
-</p>
+- 🎓 Maintained strong academic performance — SGPA 8.1 (B.E.) and 81.07 (Diploma)
+- 🤖 Built and deployed 2 software projects leveraging AI and modern web technologies
+- 🏅 Hackathon Participant — collaborated with a team to build and present a technology-based solution
+- 🐍 Completed Python programming training with hands-on coding practice
 
+---
 
-### 🎨 Frontend
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=react" />
-
-</p>
-
-
-### ⚙️ Backend & Database
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=spring" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=sqlite" />
-
-</p>
-
-
-### 🔧 Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-</p>
-
-
-<!-- ===================== PROJECTS ===================== -->
-
-## 🚀 Projects
-
-### 🪞 CareerSmart Mirror – AI Powered Personal Assistant
-
-An AI-powered smart mirror developed using:
-
-- 🐍 Python
-- 📱 Flutter
-- 🍓 Raspberry Pi
-- 👁️ OpenCV
-- 🌦️ Weather API
-- 📅 Calendar Integration
-- 🤖 IoT Automation
-
-**Features:**
-
-- Voice interaction
-- Facial recognition
-- Weather information
-- Calendar integration
-- Personalized user interaction
-- IoT-based automation
-
-
-### 🎬 Streamify – React Movie App
-
-A full-stack movie streaming application developed using:
-
-- ⚛️ React
-- ☕ Java Spring Boot
-- 🔌 REST APIs
-- 🎬 Movie APIs
-- 🔄 Redux
-
-**Features:**
-
-- Dynamic movie content
-- REST API integration
-- Redux state management
-- Optimized API calls
-- Responsive web application
-
-
-<!-- ===================== EDUCATION ===================== -->
-
-## 🎓 Education
-
-**B.E. Information Technology**
-
-Prof. Ram Meghe College of Engineering and Management, Badnera
-
-📅 Expected: 2027  
-📊 SGPA: 8.1
-
-
-**Diploma**
-
-Government Polytechnic Achalpur
-
-📅 2024  
-📊 Score: 81.07
-
-
-<!-- ===================== GITHUB STATS ===================== -->
-
-## 📊 GitHub Statistics
+### 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=ishwarihive26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwarihive26&layout=compact&langs_count=8&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ishwarihive26&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=ishwarihive26&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
-
-
-<!-- ===================== STREAK ===================== -->
-
-## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ishwarihive26&theme=tokyonight&hide_border=false"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwarihive26&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
+---
 
-<!-- ===================== CONTRIBUTIONS ===================== -->
+### 📫 Connect with Me
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishwarihive26&theme=tokyo-night&hide_border=false"/>
-
+<p>
+  <a href="https://linkedin.com/in/ishwari-hive9420591463/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ishwarihive67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ishwarihive26"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-
-<!-- ===================== ACHIEVEMENTS ===================== -->
-
-## 🏆 Achievements
-
-- 🚀 Built and deployed 2 software projects
-- 🤖 Developed an AI-powered smart mirror
-- 🌐 Developed a full-stack movie application
-- 🏅 Hackathon Participant
-- 🐍 Completed Python programming training
-- 📚 Continuously improving DSA, SQL and development skills
-
-
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-## 🎯 Currently Learning
-
-```text
-DSA                  █████████░░░  Improving
-SQL                  █████████░░░  Improving
-Python               █████████░░░  Improving
-Full-Stack           ████████░░░░  Building
-Cloud                ██████░░░░░░  Exploring
-Open Source          █████░░░░░░░  Exploring
