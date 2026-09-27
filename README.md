@@ -62,12 +62,18 @@ I'm a B.E. Information Technology student at Prof Ram Meghe College of Engineeri
 ### 🚀 Featured Projects
 
 **🪞 CareerSmart Mirror — AI Powered Personal Assistant**
+
 `Python` `Flutter` `Raspberry Pi` `OpenCV`
+
 - AI-powered smart mirror with voice interaction, facial recognition, weather API, and calendar integration
 - IoT-based automation for personalized user interaction
 
+<br>
+
 **🎬 Streamify — React Movie App**
+
 `React` `Java Spring Boot` `Redux` `REST API`
+
 - Full-stack movie streaming application with dynamic content via movie/REST APIs
 - Redux for state management, with optimized API calls for performance
 
@@ -91,6 +97,22 @@ I'm a B.E. Information Technology student at Prof Ram Meghe College of Engineeri
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwarihive26&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ishwarihive26&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishwarihive26&theme=react-dark" alt="Contribution Activity Graph"/>
 </p>
 
 ---
